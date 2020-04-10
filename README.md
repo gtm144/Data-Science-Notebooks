@@ -1,2 +1,2 @@
 # Data-Science-Notebooks
-Central repository for Data Science Notebooks Examples
+Central repository for my data science notebooks examples. This helps to showcase my projects.
